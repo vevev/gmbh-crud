@@ -4,7 +4,7 @@
 - Run `php artisan serve`
 
 ### Khởi động Frontend
-- Run `cd resources/react`
+- Run `cd resources/react-fe`
 - Run `npm install`
 - Run `npm start`
 - Mở trình duyệt và truy cập `http://localhost:3000`
