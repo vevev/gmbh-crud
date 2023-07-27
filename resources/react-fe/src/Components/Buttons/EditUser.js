@@ -88,7 +88,7 @@ export default function (props) {
                     <Button variant="secondary" onClick={handleClose}>
                         Close
                     </Button>
-                    <Button variant="primary" onClick={onClickSaveBtn}>Add</Button>
+                    <Button variant="primary" onClick={onClickSaveBtn}>Save</Button>
                 </Modal.Footer>
             </Modal>
         </>
